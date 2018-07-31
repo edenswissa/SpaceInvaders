@@ -1,9 +1,8 @@
 =====================Exercise Checking Report=========================
 Exercise No.......................: 2
-First Student Details...........: 32421067 Danny 
-Second Student Details.......: 200315596 Eden
+Student Details...................: 200315596 Eden
 Delivery Date.....................: 02.01.17
-Deliverd In Delay................: No
-Delay Reason.....................: -
-Comments.........................: -
+Deliverd In Delay.................: No
+Delay Reason......................: -
+Comments..........................: -
 =====================End Exercise Checking Report=====================
